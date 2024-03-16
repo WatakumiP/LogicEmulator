@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Fri Mar  8 11:31:59 2024
+# Process ID: 146380
+# Current directory: E:/WATAKUMI/LOGIC_EMULATOR/AMD_VIVADO_TEST/TEST_FPGA/TEST_FPGA.runs/synth_1
+# Command line: vivado.exe -log FPGA_TEST.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FPGA_TEST.tcl
+# Log file: E:/WATAKUMI/LOGIC_EMULATOR/AMD_VIVADO_TEST/TEST_FPGA/TEST_FPGA.runs/synth_1/FPGA_TEST.vds
+# Journal file: E:/WATAKUMI/LOGIC_EMULATOR/AMD_VIVADO_TEST/TEST_FPGA/TEST_FPGA.runs/synth_1\vivado.jou
+# Running On: DESKTOP-7MFJI16, OS: Windows, CPU Frequency: 2994 MHz, CPU Physical cores: 16, Host memory: 34284 MB
+#-----------------------------------------------------------
+source FPGA_TEST.tcl -notrace
