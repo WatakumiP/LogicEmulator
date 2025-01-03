@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "417d7cccbe2f0657",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0537c2e6f81f49c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc02373d4a863d7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "要求レビュー.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35fd126b14a7c2a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "629febaf45871e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "695400030cee26aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5dd887f10c4dd3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d7d86fb98e16459",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e431d2e0ecac2082",
+    "type": "split",
+    "children": [
+      {
+        "id": "b59036d83d923085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cf881296f43fcac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "要求レビュー.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46dd221cd24939b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "要求レビュー.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78053a03577c1318",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23d62c67d3748954",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "要求レビュー.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "bc02373d4a863d7d",
+  "lastOpenFiles": [
+    "無題のフォルダ"
+  ]
+}
